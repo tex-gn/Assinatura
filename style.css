@@ -96,6 +96,7 @@ img{
 section#colaborador form{
 	color: white;
 	font-weight: bolder;
+	padding-top: auto;
 }
 
 section#colaborador input{
