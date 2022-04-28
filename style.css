@@ -74,6 +74,10 @@ html, body, .capa{
 	background-color: white
 }
 
+section{
+	height: 100;
+}
+
 section#colaborador{
     background-color: #89d340;
     height: 100%;
